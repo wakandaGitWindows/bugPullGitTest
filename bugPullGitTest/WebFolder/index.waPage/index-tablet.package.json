@@ -1,0 +1,17 @@
+{
+	"name": "bugPullGitTest/index.waPage/index-tablet.html",
+	"type": "page",
+	"version": "1.0.0",
+	"loadDependencies": [
+		{
+			"package": "default"
+		},
+		{
+			"file": "styles/index.css"
+		},
+		{
+			"file": "application.css",
+			"path": "WEBFOLDER"
+		}
+	]
+}
